@@ -8,6 +8,8 @@ public class Runner
 
 		public static void main(String[] args)
 			{
+				//Greeter and quizsetup are both complete, theorycraft on setting up the actual quizzes.
+				
 				greeter();
 				quizSetup();
 				
@@ -50,6 +52,8 @@ public class Runner
 				
 			}
 		}
+		
+		//WIP -- Basically self explanatory at this point.
 		public static void quiz(){
 			int RandomNumber = new Random().nextInt(5) + 1;
 				//

@@ -1,7 +1,7 @@
 
 public class Cabinet extends Furniture
 	{
-
+//Complete
 		
 		public void runCabinetMethod(){
 			
