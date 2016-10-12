@@ -3,15 +3,15 @@ public class Furniture
 	{
 //Complete
 		
-		public void runFurnitureMethod(){
+		public String runFurnitureMethod(){
 			
-			System.out.println("Tester");
+			return "Test";
 			
 		}
 		
 		
-		public void runFurnitureMethod2(){
-			System.out.println("Tester2");
+		public String runFurnitureMethod2(){
+			return "tester2";
 			
 			
 		}
