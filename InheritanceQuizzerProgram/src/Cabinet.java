@@ -3,17 +3,19 @@ public class Cabinet extends Furniture
 	{
 //Complete
 		
-		public void runCabinetMethod(){
+	
+
+		public String runCabinetMethod(){
 			
-			System.out.println("I am a piece of wood skilfully crafted");
+			return "I hold all of your clothing";
 			
 			
 			
 		}
 		
-		public void runCabinetMethod2(){
+		public String runCabinetMethod2(){
 			
-			System.out.println("I am more than a piece of wood, I am me.");
+			return "I am in the kitchen too";
 			
 			
 			
